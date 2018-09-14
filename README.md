@@ -22,6 +22,9 @@ if this doesn't work you will get problems.
 
 To resolve this, modify the #! lines in the .dbuild/pretty/*.py files.
 
+## Howto Build using docker:
+- Run `docker-compose up`
+
 Hope this helps.
 
 I'm currently porting my BitThunder project to the Pi, which is a OS based on FreeRTOS
